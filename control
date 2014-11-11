@@ -1,0 +1,9 @@
+Package: com.ryst.batterybar
+Name: Battery Bar
+Depends: mobilesubstrate
+Version: 0.1.3
+Architecture: iphoneos-arm
+Description: Replaces the status bar battery icon with a 2px bar along the top of the status bar.
+Maintainer: ryst
+Author: ryst
+Section: Tweaks
